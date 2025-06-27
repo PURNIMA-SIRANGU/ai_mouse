@@ -36,7 +36,7 @@ Python 3.8 or higher
 A webcam connected to your computer
 2. Clone the Repository
 Generated bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/PURNIMA-SIRANGU/ai_mouse.git
 cd your-repository-name
 Use code with caution.
 Bash
